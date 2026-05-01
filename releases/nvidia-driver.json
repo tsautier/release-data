@@ -135,8 +135,10 @@
     "r510-windows": {
       "name": "r510-windows",
       "latest": "514.08",
-      "latestDate": "2022-12-20",
-      "latestLink": "https://www.nvidia.com/download/driverResults.aspx/197675/"
+      "latestDate": "2022-11-22",
+      "latestLink": "https://docs.nvidia.com/datacenter/tesla/tesla-release-notes-510-108-03/index.html",
+      "latestReleaseDate": "2022-12-20",
+      "link": "https://www.nvidia.com/download/driverResults.aspx/197675/"
     },
     "r510-linux": {
       "name": "r510-linux",
@@ -147,14 +149,18 @@
     "r495-linux": {
       "name": "r495-linux",
       "latest": "495.46",
-      "latestDate": "2021-12-13",
-      "latestLink": "https://www.nvidia.com/Download/driverResults.aspx/184248/"
+      "latestDate": "2021-10-26",
+      "latestLink": "https://download.nvidia.com/XFree86/Linux-x86_64/495.44/README/",
+      "latestReleaseDate": "2021-12-13",
+      "link": "https://www.nvidia.com/Download/driverResults.aspx/184248/"
     },
     "r470-windows": {
       "name": "r470-windows",
       "latest": "475.14",
-      "latestDate": "2024-07-09",
-      "latestLink": "https://docs.nvidia.com/datacenter/tesla/tesla-release-notes-475-14/"
+      "latestDate": "2024-06-04",
+      "latestLink": "https://docs.nvidia.com/datacenter/tesla/tesla-release-notes-470-256-02/index.html",
+      "latestReleaseDate": "2024-07-09",
+      "link": "https://docs.nvidia.com/datacenter/tesla/tesla-release-notes-475-14/"
     },
     "r470-linux": {
       "name": "r470-linux",
